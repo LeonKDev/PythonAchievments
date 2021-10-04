@@ -1,5 +1,5 @@
 import time
-for i in range(1000, -1, -1):
+for i in range(1, 1001):
     print(i)
     time.sleep(0.001)
 
